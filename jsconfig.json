@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["c:/Users/tasos/Desktop/ergasies 3/tsad/front/*"]
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}
